@@ -12,6 +12,18 @@ Instructor: Orcun Tagtekin
 
 Week 3 Node Secrets Assignment
 
+## Needed Secrets
+
+This Express app requires the following environment variables:
+
+```
+PORT
+FIRST_NAME
+LAST_NAME
+```
+
+Please see the _.env.example_ file for details.
+
 ## Usage
 
 ### Create new Node.js app
