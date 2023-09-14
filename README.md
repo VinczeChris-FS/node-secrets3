@@ -18,6 +18,7 @@ This Express app requires the following environment variables:
 
 ```
 PORT
+HOST
 FIRST_NAME
 LAST_NAME
 ```
