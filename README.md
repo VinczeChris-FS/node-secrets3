@@ -1,6 +1,6 @@
-# node-secrets2
+# node-secrets3
 
-## Shared Secret Repo
+## Non-Shared Secret Repo
 
 ## Secure Application Development
 
@@ -45,3 +45,7 @@ npm i -D nodemon
 ```
 nodemon app.js
 ```
+
+### Update gitignore
+
+To ignore .env file.
